@@ -1,8 +1,8 @@
 # github-final-project
 
-# 💰 Simple Interest Calculator (Python)
+# 💰 Simple Interest Calculator
 
-A beginner-friendly Python program that calculates **Simple Interest** and the **Total Amount** based on user input.
+A beginner-friendly program that calculates **Simple Interest** and the **Total Amount** based on user input.
 
 ---
 
@@ -32,10 +32,8 @@ Where:
 
 ## 🖥️ How to Run
 
-1. Install Python (version 3.x recommended)
-2. Save the file as `simple_interest.py`
-3. Open terminal in the project folder
-4. Run:
+1. Save the file as: 'simple-interest.sh'
+2. Open terminal in the project folder
+3. Give it executable permission: chmod +x simple-interest.sh
+4. Run: ./simple-interest.sh
 
-```bash
-python simple_interest.py
